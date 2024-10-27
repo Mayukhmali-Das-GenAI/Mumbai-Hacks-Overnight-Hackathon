@@ -3,7 +3,7 @@
 <img src="https://github.com/user-attachments/assets/191a8f0e-523c-4cf6-a4cc-bc1e3e1dba65" alt="WhatsApp Image 2024-10-25" width="500"/>
 
 
-# Meeting Assistant Dashboard 🎙️📝
+# Meeting Assistant: AI-Powered Meeting Productivity & JIRA Automation 🎙️📝
 
 A Streamlit-based web application that helps teams automate the process of converting meeting recordings into actionable JIRA tasks. The app uses Deepgram for speech-to-text transcription and LLaMA for intelligent task extraction.
 
